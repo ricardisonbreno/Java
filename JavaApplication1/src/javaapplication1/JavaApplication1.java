@@ -16,7 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         int a=6;
-        System.out.println("Primeiro arquivo"+a);
+        System.out.println("Primeiro arquivo "+a);
         
     }
     
